@@ -1,0 +1,31 @@
+.Primeiradiv {
+    background-color: orchid;
+    width: 230px;
+    height: 230px;
+    }
+
+.Segundadiv {
+    background-color: #68921a;
+    width: 200px;
+    height: 200px;
+}
+
+.Terceiradiv {
+    background-color: rgb(255, 2, 221);
+    color: rgba(207, 48, 8, 0.575);
+    font-size: 45px;
+    font-weight: normal;
+    font-weight: bold;
+}
+
+.Quartadiv {
+    width: 60%;
+    height: 60vh;
+    background-color: red;
+}
+
+.Quintadiv {
+    width: 18vw;
+    height: 18%;
+    background-color: rgb(70, 6, 41);
+}
